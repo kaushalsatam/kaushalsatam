@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Kaushal Satam</h1>
+<h1 align="center">Kaushal Satam</h1>
 <h3 align="center">Software Developer, Passionate about Coding and Problem Solving</h3>
 
 - 👨‍💻 All of my projects are available at [kaushalsatam.dev](kaushalsatam.dev)

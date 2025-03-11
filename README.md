@@ -1,17 +1,23 @@
 <h1 align="center">Kaushal Satam</h1>
-<h3 align="center">Software Developer, Passionate about Coding and Problem Solving</h3>
+<h3 align="center">Software Developer | Tech Enthusiast</h3>
 
--  All of my projects are available at [kaushalsatam.dev](https://kaushalsatam.dev)
-
--  How to reach me **satamkaushal@gmail.com**
-
+-  Passionate about building efficient, scalable, and user-friendly applications  
+-  Exploring Full Stack Development with React, Node.js, Express and PostgreSQL  
+-  Currently learning **Data Structures and Algorithms**  
 -  **I use [Arch, Neovim, Tmux, Hyprland] btw!**
 
-<h3 align="left">Connect with me:</h3>
+###  Tech Stack
 <p align="left">
-<a href="https://linkedin.com/in/kaushalsatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushalsatam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaushalsatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushalsatam" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgresql,flutter,python" />
+</p> 
+
+###  GitHub Stats
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushalsatam&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalsatam&layout=compact&theme=tokyonight" />
 </p>
 
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushalsatam&show_icons=true&theme=gotham" alt="kaushalsatam" /></p>
-
+###  Connect with Me
+<a href="https://linkedin.com/in/kaushalsatam" target="blank">LinkedIn</a> • 
+<a href="https://www.leetcode.com/kaushalsatam" target="blank">LeetCode</a> • 
+<a href="mailto:satamkaushal@gmail.com">Email</a>

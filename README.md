@@ -5,7 +5,7 @@
 
 -  How to reach me **satamkaushal@gmail.com**
 
--  Fun fact **I use [Arch, Neovim, Tmux, Hyprland] btw!**
+-  **I use [Arch, Neovim, Tmux, Hyprland] btw!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

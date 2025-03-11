@@ -1,11 +1,11 @@
 <h1 align="center">Kaushal Satam</h1>
 <h3 align="center">Software Developer, Passionate about Coding and Problem Solving</h3>
 
-- 👨‍💻 All of my projects are available at [kaushalsatam.dev](kaushalsatam.dev)
+-  All of my projects are available at [kaushalsatam.dev](kaushalsatam.dev)
 
-- 📫 How to reach me **satamkaushal@gmail.com**
+-  How to reach me **satamkaushal@gmail.com**
 
-- ⚡ Fun fact **I use Arch btw!**
+-  Fun fact **I use [Arch, Neovim, Tmux, Hyprland] btw!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

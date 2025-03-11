@@ -3,9 +3,9 @@
 
 <ul align="center">
  <li> Passionate about building efficient, scalable, and user-friendly applications  </li>
- <li> Exploring Full Stack Development with **React**, **Node.js**, **Express**, and **PostgreSQL**  </li>
- <li> Currently learning **Data Structures and Algorithms**  </li>
- <li> **I use [Arch, Neovim, Tmux, Hyprland] btw!** </li>
+ <li> Exploring Full Stack Development with <strong>React</strong>, <strong>Node.js</strong>, <strong>Express</strong>, and <strong>PostgreSQL</strong>  </li>
+ <li> Currently learning <strong>Data Structures and Algorithms</strong>  </li>
+ <li> <strong>I use [Arch, Neovim, Tmux, Hyprland] btw!</strong> </li>
 </ul>
 
 ---

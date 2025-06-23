@@ -1,4 +1,4 @@
-<h1 align="center"> Kaushal Satam </h1>
+<h1 align="center"> Kaushal Ashok Satam </h1>
 <h3 align="center">Software Developer | Tech Enthusiast</h3>
 
 <ul align="center">

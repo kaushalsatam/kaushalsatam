@@ -5,22 +5,21 @@
  <li> Passionate about building efficient, scalable, and user-friendly applications  </li>
  <li> Exploring Full Stack Development with <strong>React</strong>, <strong>Flutter</strong>, <strong>Node.js</strong>, <strong>Express</strong>, and <strong>PostgreSQL</strong>  </li>
  <li> Currently learning <strong>Data Structures and Algorithms</strong>  </li>
- <li> <strong>I use [Arch, Neovim, Tmux, Hyprland] btw!</strong> </li>
 </ul>
 
 ---
 
 ###  Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgresql,flutter,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,postgresql,flutter,python,redis,docker,git,githubactions,nginx,linux" />
 </p> 
 
 ---
 
 ###  GitHub Stats
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushalsatam&show_icons=true&theme=tokyonight" height="175" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalsatam&layout=compact&theme=tokyonight" height="175" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=kaushalsatam&show_icons=true&theme=tokyonight" height="175" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaushalsatam&layout=compact&theme=tokyonight" height="175" />
 </p>
 
 ---
